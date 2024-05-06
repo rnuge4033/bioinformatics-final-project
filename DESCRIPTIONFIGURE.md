@@ -1,1 +1,2 @@
-
+<h1> Description of Figure </h1>
+The figure shows a multiple sequence alignment of the cytochrome C gene from the five species which were aligned on a positional range of 0-506. Each individual species has a sequence alignment consisting of either amino acids, indicated by individual letters or gaps, indicated by dashes. The consensus of the alignment shows a majority of X's representing matches amongst the sequences; though the consensus also shows minimal, but still noticeable pluses representing differences amongst the sequences.
